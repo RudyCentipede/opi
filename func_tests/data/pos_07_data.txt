@@ -1,0 +1,30 @@
+Ivanov
+Ivan
+Ivanovich
+Department of taste
+001-555
+ws
+Petrov
+Petr
+Petrovich
+Department of sun
+003-123
+mb
+Vasilyev
+Vasiliy
+Vasilievich
+Department of lake
+002-776
+wa
+Antonov
+Anton
+Antonovich
+IU
+123-333
+ws
+Petrenko
+Peter
+Ivanovich
+CS
+100-787
+ws
